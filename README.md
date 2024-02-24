@@ -25,7 +25,11 @@ This project provides a robust framework for establishing client-server communic
 ## VIDEOS
 
 
-Uploading javasocket.mp4…
+
+
+https://github.com/ozangulll/Java-ServerClientApp/assets/118335871/400c3c4b-b02b-4a4e-94ba-5d32cecda702
+
+
 
 
 
