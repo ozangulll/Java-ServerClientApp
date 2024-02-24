@@ -24,11 +24,11 @@ This project provides a robust framework for establishing client-server communic
 
 ## VIDEOS
 
-![Server Screenshot](screenshots/server.png)
-*Figure 1: Server Console*
 
-![Client Screenshot](screenshots/client.png)
-*Figure 2: Client Console*
+Uploading javasocket.mp4…
+
+
+
 
 ## Contributions
 
